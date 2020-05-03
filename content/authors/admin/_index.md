@@ -72,4 +72,3 @@ user_groups:
 
 I am currently working with Dr. Georges Beaudoin as a research fellow in the E4M in Quebec, Canada. My current research project is to develop discriminant criteria based on the geochemical composition of native gold. This scientific project is used to determine gold deposit types for mineral exploration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
