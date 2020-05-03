@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haiming Liu
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université Laval
+  url: "https://www.ulaval.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently working with Dr. Georges Beaudoin as a research fellow in the E4M in Quebec, Canada. My current research project is to develop discriminant criteria based on the geochemical composition of native gold. This scientific project is used to determine gold deposit types for mineral exploration.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Indicator mineral
+- Geochemistry
+- Geoscience
 
 education:
   courses:
