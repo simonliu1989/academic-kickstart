@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Earth Science
+    institution: Université Laval
+    year: 2015-2020
+  - course: MEng in Geology Engineer
+    institution: China University of Geosciences (Beijing)
+    year: 2012-2015
+  - course: BSc in Gemology
+    institution: Hebei GEO University
+    year: 2008-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
