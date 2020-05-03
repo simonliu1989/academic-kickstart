@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-I am currently working with Dr. Georges Beaudoin as a research fellow in the E4M in Quebec, Canada. My current research project is to develop discriminant criteria based on the geochemical composition of native gold. This scientific project is used to determine gold deposit types for mineral exploration.
+Haiming is currently working with Dr. Georges Beaudoin as a research fellow in the E4M in Quebec, Canada. My current research project is to develop discriminant criteria based on the geochemical composition of native gold. This scientific project is used to determine gold deposit types for mineral exploration.
 
